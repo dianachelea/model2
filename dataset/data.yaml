@@ -1,0 +1,21 @@
+path: dataset
+train: images/train
+val: images/val
+nc: 16
+names:
+  - Apple
+  - Bagel
+  - Banana
+  - Broccoli
+  - Carrot
+  - Cheese
+  - Coconut
+  - Fish
+  - Garlic
+  - Grape
+  - Lemon
+  - Mushroom
+  - Orange
+  - Pumpkin
+  - Strawberry
+  - Tomato
